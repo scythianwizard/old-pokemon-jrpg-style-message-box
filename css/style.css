@@ -1,0 +1,47 @@
+
+@font-face {
+	font-family: "Pokemon GB";
+	src: url("../fonts/Pokemon_Card_GB_Part_A.ttf") format("truetype");
+}
+
+#dialogbox {
+	cursor: default;
+	/*text-align:center !important;*/
+	font-size: 8.6px;
+	font-family: "Pokemon GB", Arial, sans-serif;
+	border-radius: 2px;
+	padding: 8px;
+	position: relative;
+	width: 250px;
+	height: 55px;
+	line-height: 16px;
+	margin: auto;
+	background: white;
+	border: 1px solid white;
+	box-shadow: 0 1px 0 1px black,
+			  inset 0 1px 0 1px black,
+			  0 0 0 1px black,
+			  inset 0 0 0 1px black;
+	transform: translate(0px, 20px) scale(1.5);
+	user-select: none;
+}
+#arrow {
+	width: 0;
+	height: 0;
+	border: 5px solid transparent;
+	border-top-color: black;
+	margin: 0px 0px 0px 240px;
+	position: absolute;
+	top: 40px;
+	animation: bounce 0.5s ease-in-out 0 infinite alternate;
+	-webkit-animation: bounce .3s steps(3) infinite;
+	-moz-animation: bounce .3s steps(3) infinite;
+	-ms-animation: bounce .3s steps(3) infinite;
+	-o-animation: bounce .3s steps(3) infinite;
+	float: right;
+}
+
+@keyframes bounce {
+  from { margin-top: 20px; }
+  to { margin-top: 23px; }
+}
