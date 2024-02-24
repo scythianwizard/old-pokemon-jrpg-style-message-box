@@ -25,15 +25,15 @@ This is a HTML DOM (non-canvas) box that resembles Pokemon Gold and Silver style
 	Games often have hundreds of lines of dialogue
 	I would probably use JSON files for messages and when to call them, have a separate script for calling this dialog box
 
-## Ideas
-- Different colours and styles for different NPCs
-- Sound when typing or skipping messages?
-- Add a system for choosing responses/choices + a dialogue tree for different choices
-- Dynamic content to show different text based on actions, state, attributes, etc
-- Additional animations
-- Customizable cursor/arrow and UI, maybe similar to RPG maker?
-- TTS support?
-- Option to show character portraits in the dialog box?
+## Ideas for implementing into other projects
+[] Different colours and styles for different NPCs?
+[] Sound when typing or skipping messages?
+[] Add a system for choosing responses/choices + a dialogue tree for different choices? - probably a part of the game logic though
+[] Dynamic content to show different text based on actions, state, attributes, etc.
+[] Additional animations and effects?
+[] Customizable cursor/arrow and UI, maybe something similar to RPG maker?
+[] TTS support?
+[] Option to show character portraits in the dialog box?
 
 ## Demo
 Here is a codepen, note that the font doesn't load here so it won't look as good
