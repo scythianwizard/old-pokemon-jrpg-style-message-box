@@ -1,4 +1,4 @@
-# Pokemon Gold and Silver style JRPG typwriter dialog box
+# Pokemon Gold and Silver style JRPG typewriter dialog box
 This is a HTML DOM (non-canvas) box that resembles Pokemon Gold and Silver style dialogue boxes
 
 ## Features
