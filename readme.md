@@ -35,29 +35,29 @@ This is a HTML DOM (non-canvas) box that resembles Pokemon Gold and Silver style
 - TTS support?
 - Option to show character portraits in the dialog box?
 
-##Demo
+## Demo
 Here is a codepen, note that the font doesn't load here so it won't look as good
 https://codepen.io/scythianwizard/pen/oNVrGoy
 
 
-##Acknowledgements
+## Acknowledgements
 
-###Idea
+### Idea
 The idea comes from the pokemon games, of course. 
 My friend Stanley Ching wanted me to make this system for his website. So I put together what I could salvage online.
 Check out his website: https://stanleychingstudio.com/
 
-###Font
+### Font
 Pokemon GB by Jackster Productions, released for free.
 https://www.fontspace.com/jackster-productions
 
-###UI
+### UI
 jaflo for this codepen https://codepen.io/jaflo/pen/AzgmQb
 
-###Logic
+### Logic
 https://stackoverflow.com/questions/7264974/show-text-letter-by-letter
 
-###Disclaimers
+### Disclaimers
 - Pokémon Company owns the rights to the Pokémon games, images, text recordings etc
 - However, game mechanisms cannot be copyrighted in most countries, and the typewriter style text/dialogs is not an original idea
 - I did not find any license for the font, but I am assuming it was free and okay to redistribute, please reach out if this is not the case.
